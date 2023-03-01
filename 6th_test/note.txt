@@ -1,0 +1,3 @@
+Figured out the problem.
+
+Used the "davinci-text-002" engine model.
