@@ -3,7 +3,7 @@ import os
 import sys
 from datetime import datetime
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def ask_question(question, model_engine="text-davinci-002", prompt=""):
     response = openai.Completion.create(
